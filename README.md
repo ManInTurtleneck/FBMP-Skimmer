@@ -1,11 +1,7 @@
-@ -1,7 +1,55 @@
 # facebook-marketplace-webscraping
 Facebook Marketplace Scraper Using Python, BeautifulSoup, Splinter, Pandas...
 # FBMP Skimmer 🚗🔍
 
-<h3>
-  🔥  Avoid getting BLOCKED or RESTRICTED with <a href="https://shorturl.at/eCOdT" target="_blank">quality proxies</a>.
-<h3/>
 A Python-based Facebook Marketplace scraper built with **BeautifulSoup**, **Splinter**, and **Pandas**.  
 This project automates the search for cars on Facebook Marketplace, saving you time and helping you find the best deals faster.  
 
@@ -13,7 +9,7 @@ This project automates the search for cars on Facebook Marketplace, saving you t
 
 ## 🌟 Overview
 
-The **FBMP Skimmer** was created with a simple but ambitious goal:  
+My fork of the **FBMP Skimmer** was created with a simple but ambitious goal:  
 > *Find the best deal on a car without manually refreshing Facebook Marketplace every hour.*
 
 Instead of endlessly scrolling through listings, this bot continuously monitors Facebook Marketplace in the background. Given parameters like **make, model, year, and mileage**, it automatically detects new posts and sends real-time notifications so you never miss a good deal.  
