@@ -50,12 +50,3 @@ Armed with the base Jupyter notebook from the parent repository and some Python 
 - Learned a ton about web scraping, data handling, and automation along the way  
 
 What started as a small class-inspired side project turned into a tool I still use today.  
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/fbmp-skimmer.git
-   cd fbmp-skimmer
